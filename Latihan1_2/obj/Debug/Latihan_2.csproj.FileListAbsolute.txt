@@ -16,3 +16,6 @@ C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Latihan\
 C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Latihan\Latihan1_2\obj\Debug\Latihan_2.Form1.resources
 C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Latihan\Latihan1_2\obj\Debug\Latihan_2.Properties.Resources.resources
 C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Latihan\Latihan1_2\obj\Debug\Latihan_2.csproj.GenerateResource.Cache
+C:\Users\miich\Desktop\Framework\-Selasa_141110710_Michael\Latihan1_2\bin\Debug\Latihan_2.exe.config
+C:\Users\miich\Desktop\Framework\-Selasa_141110710_Michael\Latihan1_2\obj\Debug\Latihan_2.exe
+C:\Users\miich\Desktop\Framework\-Selasa_141110710_Michael\Latihan1_2\obj\Debug\Latihan_2.pdb
