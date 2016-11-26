@@ -1,2 +1,3 @@
 C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Latihan\Latihan_1\bin\Debug\Latihan_1.exe.config
 C:\Users\miich\Desktop\Semester V\Framework Lanjutan\Framework Lanjutan\Latihan\Latihan1_1\bin\Debug\Latihan_1.exe.config
+C:\Users\miich\Desktop\Framework\-Selasa_141110710_Michael\Latihan1_1\bin\Debug\Latihan_1.exe.config
